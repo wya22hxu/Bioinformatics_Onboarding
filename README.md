@@ -65,8 +65,9 @@ Gain introductory exposure to:
 - The [GlobalProtect VPN](https://my.uea.ac.uk/divisions/it-and-computing-services/service-catalogue/network-and-telephony-services/vpn-services/vpn-for-non-managed-devices), 
 - A "Hali" account (UEA's High Performance Computing cluster (HPC)), **which I have already set up for all students registered to this module**.
 
-**If you are having trouble with your username, email, MFA, or VPN, contact:** 
-- [UEA IT Service Desk](https://www.uea.ac.uk/about/university-information/it-services/it-service-desk).
+**If you are having trouble with your username, email, MFA, or VPN:** 
+- Contact or live chat with [UEA IT Service Desk](https://www.uea.ac.uk/about/university-information/it-services/it-service-desk), or
+- [Log a ticket with ITCS](https://itsupport.uea.ac.uk/CherwellPortal/UEAITServices?_=633d36d5#0).
 
 **If you are missing any of the above,** proceed through as much of this tutorial as you can, and sort out the rest with UEA IT **prior** to Day 1 (February 4, 2025). 
 
